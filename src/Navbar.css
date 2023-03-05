@@ -1,0 +1,42 @@
+
+.nav{
+    display: flex;
+    align-items: center;
+    background: rgb(33, 34, 42);
+    padding: 20px 5px;
+    height: 100px;
+    width: 100%;
+  }
+  
+  .nav--icon{
+    margin-right: 7px;
+    height: 70px;
+  }
+  
+  .nav--logo_text > .nav--title{
+    margin: 0px;
+  }
+  
+  .nav--logo_text{
+    margin-right:auto;
+    font-weight: 700px;
+    font-size: 20px;
+    color: rgb(14, 14, 102);
+  }
+  
+  
+  .nav--title{
+    padding-right: 30px;
+    color: rgb(211, 15, 211);
+    font-weight: 600;
+    font-size: 15px;
+  }
+
+/*   @keyframes nav-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  } */
